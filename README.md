@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hi I'm Ibrahim 👋
 
+
+I am a student currently doing a Bachelor's in Computer and Information Systems Engineering from NED University of Engineering and Technology. I recently began to be fascinated by Web Programming, so I decided to start my career in Web Development currently, focusing on the front-end side. My goal is to become a professional Full-Stack Web Developer. I am also conversant in using Adobe Photoshop for my projects. I am therefore looking for a job or an internship as a Front-end developer so that I can further hone my Web Development skills.
 <!--
 **ibrahimrehman1/ibrahimrehman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
