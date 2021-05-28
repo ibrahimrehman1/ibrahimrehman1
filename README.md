@@ -8,7 +8,10 @@ I am a student currently doing a Bachelor's in **Computer and Information System
 ✔ Javascript
 ✔ JQuery
 ✔ Bootstrap 4
-✔ ReactJS
+✔ React JS
+✔ Node JS
+✔ Express JS
+✔ MongoDB
 
 
 
