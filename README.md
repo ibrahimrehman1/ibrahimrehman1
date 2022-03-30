@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimrehman1" alt="ibrahimrehman1" /></a> </p>
 
-- 🔭 I’m currently working on [Coursera Web App Clone](https://github.com/ibrahimrehman1/Coursera-Web-App-Clone)
-
-- 🌱 I’m currently learning **NextJS, and Flutter**
+- 🌱 I’m currently learning **Next.JS and Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ibrahimrehman1?tab=repositories](https://github.com/ibrahimrehman1?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Javascript, ReactJS, NodeJS, ExpressJS, MongoDB, MySQL and Cloud Computing**
+- 💬 Ask me about **HTML, CSS, Javascript, ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, Cloud Computing and Blockchain**
 
 - 📫 How to reach me **ibrahimrehman0346@gmail.com**
 
