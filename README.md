@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimrehman1" alt="ibrahimrehman1" /></a> </p>
 
-- 🌱 I’m currently learning **Next.JS and Vue.JS**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ibrahimrehman1?tab=repositories](https://github.com/ibrahimrehman1?tab=repositories)
 
