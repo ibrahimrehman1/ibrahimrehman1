@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **ibrahimrehman0346@gmail.com**
 
+- 💬 Ask me about HTML, CSS, Javascript, ReactJS, NodeJS, ExpressJS, MongoDB, MySQL, Cloud Computing and Blockchain
+
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
