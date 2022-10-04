@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="auto" width="40%"/></p>
 
 
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Blockchain and Web 3.0
 
 - 📫 I am currently working on <a href="https://github.com/ibrahimrehman1/big-brains-resume">Online Resume Builder</a> & <a href="https://github.com/ibrahimrehman1/Coursera-Web-App-Clone">Coursera Web App Clone</a>
 
