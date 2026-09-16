@@ -17,7 +17,7 @@
 
 - 🛒 Also build and customize WordPress & WooCommerce sites for content-driven and e-commerce needs
 
-- 🌱 Currently exploring Generative AI tools and applications
+- 🌱 Currently exploring Agentic Coding Tools and Workflows
 
 - 📫 Reach out to me on <a href="https://www.linkedin.com/in/ibrahimrehmanweb/" target="blank">LinkedIn</a> or **ibrahimrehman0346@gmail.com**
 
